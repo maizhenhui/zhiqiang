@@ -1,0 +1,12 @@
+/zhiqiang-common-interface/target
+/zhiqiang-common-interface/.idea
+/zhiqiang-common-interface/*.iml
+/zhiqiang-common-interface/test/
+/zhiqiang-parent/target
+/zhiqiang-parent/.idea
+/zhiqiang-parent/*.iml
+/zhiqiang-parent/test/
+/zhiqiang-pojo/target
+/zhiqiang-pojo/.idea
+/zhiqiang-pojo/*.iml
+/zhiqiang-pojo/test/
